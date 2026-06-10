@@ -2,5 +2,5 @@
 
 Visit the bob-intro-labs folder to learn more about Bob!
 
-Inline-style: 
+
 ![alt text](https://github.com/hermanmostein/Bob-Labs/blob/main/Picture1.png "IBM Bob")
