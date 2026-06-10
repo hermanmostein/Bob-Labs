@@ -3,4 +3,4 @@
 Visit the bob-intro-labs folder to learn more about Bob!
 
 
-![alt text](https://github.com/hermanmostein/Bob-Labs/blob/main/Picture1.png "IBM Bob")
+![alt text](https://github.com/hermanmostein/Bob-Labs/blob/main/IBMBob.png "IBM Bob")
