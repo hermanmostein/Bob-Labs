@@ -1,4 +1,4 @@
-# IBM Bob Labs 10th of June 🤖
+# IBM Bob Labs 🤖
 
 Visit the bob-intro-labs folder to learn more about Bob!
 
